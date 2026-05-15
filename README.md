@@ -4,15 +4,6 @@
   Software developer building practical web tools, dashboards, data workflows, and systems that make day-to-day work easier.
 </p>
 
-<p align="center">
-  <a href="https://github.com/yinyifeng?tab=repositories">
-    <img alt="GitHub repositories" src="https://img.shields.io/badge/Repos-Explore-24292f?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://yinyifeng.github.io">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-</p>
-
 ## About
 
 I like turning messy operational problems into clean interfaces, reliable services, and small tools that save people time. My work usually sits where full-stack engineering, automation, and data-heavy workflows meet: dashboards, internal tools, catalog systems, sync jobs, and application backends.
