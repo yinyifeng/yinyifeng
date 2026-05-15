@@ -36,3 +36,7 @@ Right now I am especially interested in:
 - Frontend experiences that prioritize clarity, scanning, and useful interaction
 - Scripts and utilities that turn tedious file or data tasks into repeatable processes
 - Database-backed applications and APIs for real business workflows
+
+## Contribution Activity
+
+<img alt="Yinyi's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yinyifeng&theme=github-compact&hide_border=true">
