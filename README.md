@@ -25,17 +25,6 @@ Right now I am especially interested in:
 - Backend systems, APIs, and database-backed workflows
 - Game programming and interactive systems in C++
 
-## Featured Work
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [jira-dashboard](https://github.com/yinyifeng/jira-dashboard) | Project visibility and dashboard UI work | TypeScript |
-| [Portfolio](https://github.com/yinyifeng/Portfolio) | Personal portfolio site with project, skills, resume, and contact sections | HTML, CSS, JavaScript |
-| [microservices-status-dashboard](https://github.com/yinyifeng/microservices-status-dashboard) | Service monitoring and operational dashboard thinking | JavaScript |
-| [check-resize-tool](https://github.com/yinyifeng/check-resize-tool) | Practical image/file workflow automation | Python |
-| [CS3113](https://github.com/yinyifeng/CS3113) | Game programming fundamentals and C++ systems work | C++ |
-| [DS-FINAL-SpotifyTop50](https://github.com/yinyifeng/DS-FINAL-SpotifyTop50) | Data exploration and analysis workflow | Data science |
-
 ## Toolbox
 
 <p>
@@ -63,9 +52,3 @@ Right now I am especially interested in:
   <img height="165" alt="Yinyi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yinyifeng&show_icons=true&theme=default&hide_border=true">
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinyifeng&layout=compact&theme=default&hide_border=true">
 </p>
-
-## Connect
-
-- GitHub: [@yinyifeng](https://github.com/yinyifeng)
-- Portfolio: [yinyifeng.github.io](https://yinyifeng.github.io)
-
