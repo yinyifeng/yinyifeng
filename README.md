@@ -1,4 +1,4 @@
-<h1 align="center">Yinyi Feng</h1>
+# Yinyi Feng
 
 <p align="center">
   Software developer building practical web tools, dashboards, data workflows, and systems that make day-to-day work easier.
